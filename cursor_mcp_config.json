@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ffmpeg": {
+      "command": "C:/Users/tengwang8/AppData/Local/Programs/Python/Python311/python.exe",
+      "args": [
+        "D:/code/ffmpeg-mcp/ffmpeg_mcp.py"
+      ],
+      "env": {
+        "PYTHONPATH": "D:/code/ffmpeg-mcp"
+      }
+    }
+  }
+}

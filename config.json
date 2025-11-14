@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ffmpeg": {
+      "command": "python",
+      "args": ["ffmpeg_mcp.py"],
+      "env": null
+    }
+  }
+}
